@@ -1,5 +1,3 @@
-# Autocomplete-WebApp
-
 <div align="center">
   
   # Autocomplete Web Application
